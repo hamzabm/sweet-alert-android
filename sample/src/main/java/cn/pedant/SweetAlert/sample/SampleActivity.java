@@ -239,10 +239,10 @@ public class SampleActivity extends Activity implements View.OnClickListener {
                 linearLayout.addView(checkBox);
 
                 SweetAlertDialog dialog = new SweetAlertDialog(this, SweetAlertDialog.NORMAL_TYPE)
-                        .setTitleText("Custom view")
-                        .hideConfirmButton();
+                        .setTitleText("Envoyer un Smart mail S115 (sans devis)");
 
                 dialog.setCustomView(linearLayout);
+                dialog.setConfirmText("valider");
                 dialog.show();
                 break;
             case R.id.custom_btn_colors_test:
