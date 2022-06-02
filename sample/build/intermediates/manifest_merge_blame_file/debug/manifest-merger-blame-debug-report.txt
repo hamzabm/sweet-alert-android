@@ -1,0 +1,45 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="cn.pedant.SweetAlert.sample"
+4    android:versionCode="1"
+5    android:versionName="1.0" >
+6
+7    <uses-sdk
+7-->C:\AndroidStudioProjects\sweet-alert-dialog\sample\src\main\AndroidManifest.xml:6:5-17
+8        android:minSdkVersion="9"
+8-->C:\AndroidStudioProjects\sweet-alert-dialog\sample\src\main\AndroidManifest.xml:6:5-17
+9        android:targetSdkVersion="32" />
+9-->C:\AndroidStudioProjects\sweet-alert-dialog\sample\src\main\AndroidManifest.xml:6:5-17
+10
+11    <application
+11-->C:\AndroidStudioProjects\sweet-alert-dialog\sample\src\main\AndroidManifest.xml:7:5-16:19
+12        android:debuggable="true"
+13        android:icon="@drawable/ic_launcher"
+13-->C:\AndroidStudioProjects\sweet-alert-dialog\sample\src\main\AndroidManifest.xml:7:51-87
+14        android:label="@string/app_name"
+14-->C:\AndroidStudioProjects\sweet-alert-dialog\sample\src\main\AndroidManifest.xml:7:18-50
+15        android:testOnly="true"
+16        android:theme="@android:style/Theme.NoTitleBar" >
+16-->C:\AndroidStudioProjects\sweet-alert-dialog\sample\src\main\AndroidManifest.xml:7:88-135
+17        <activity
+17-->C:\AndroidStudioProjects\sweet-alert-dialog\sample\src\main\AndroidManifest.xml:8:9-15:20
+18            android:name="cn.pedant.SweetAlert.sample.SampleActivity"
+18-->C:\AndroidStudioProjects\sweet-alert-dialog\sample\src\main\AndroidManifest.xml:8:19-49
+19            android:exported="true"
+19-->C:\AndroidStudioProjects\sweet-alert-dialog\sample\src\main\AndroidManifest.xml:9:13-36
+20            android:label="@string/app_name" >
+20-->C:\AndroidStudioProjects\sweet-alert-dialog\sample\src\main\AndroidManifest.xml:10:19-51
+21            <intent-filter>
+21-->C:\AndroidStudioProjects\sweet-alert-dialog\sample\src\main\AndroidManifest.xml:11:13-14:29
+22                <action android:name="android.intent.action.MAIN" />
+22-->C:\AndroidStudioProjects\sweet-alert-dialog\sample\src\main\AndroidManifest.xml:12:17-68
+22-->C:\AndroidStudioProjects\sweet-alert-dialog\sample\src\main\AndroidManifest.xml:12:25-66
+23
+24                <category android:name="android.intent.category.LAUNCHER" />
+24-->C:\AndroidStudioProjects\sweet-alert-dialog\sample\src\main\AndroidManifest.xml:13:17-76
+24-->C:\AndroidStudioProjects\sweet-alert-dialog\sample\src\main\AndroidManifest.xml:13:27-74
+25            </intent-filter>
+26        </activity>
+27    </application>
+28
+29</manifest>

@@ -1,0 +1,13 @@
+-Xdoclint:none '-quiet'
+-classpath 'C:\\Users\\benmessaoudh\\AppData\\Local\\Android\\Sdk\\platforms\\android-32\\android.jar;C:\\Users\\benmessaoudh\\AppData\\Local\\Android\\Sdk\\build-tools\\30.0.3\\core-lambda-stubs.jar;C:\\AndroidStudioProjects\\sweet-alert-dialog\\library\\build\\intermediates\\compile_r_class_jar\\release\\R.jar;C:\\Users\\benmessaoudh\\.gradle\\caches\\transforms-3\\913a01d490798a130ec8c49c15d7c708\\transformed\\materialish-progress-1.7-api.jar;C:\\AndroidStudioProjects\\sweet-alert-dialog\\library\\build\\intermediates\\compile_r_class_jar\\debug\\R.jar;C:\\Users\\benmessaoudh\\.gradle\\caches\\transforms-3\\913a01d490798a130ec8c49c15d7c708\\transformed\\materialish-progress-1.7-api.jar'
+-d 'C:\\AndroidStudioProjects\\sweet-alert-dialog\\library\\build\\docs\\javadoc'
+-doctitle 'library 1.3 API'
+-html5 
+-notimestamp 
+-quiet 
+-windowtitle 'library 1.3 API'
+'C:\\AndroidStudioProjects\\sweet-alert-dialog\\library\\src\\main\\java\\cn\\pedant\\SweetAlert\\OptAnimationLoader.java'
+'C:\\AndroidStudioProjects\\sweet-alert-dialog\\library\\src\\main\\java\\cn\\pedant\\SweetAlert\\ProgressHelper.java'
+'C:\\AndroidStudioProjects\\sweet-alert-dialog\\library\\src\\main\\java\\cn\\pedant\\SweetAlert\\Rotate3dAnimation.java'
+'C:\\AndroidStudioProjects\\sweet-alert-dialog\\library\\src\\main\\java\\cn\\pedant\\SweetAlert\\SuccessTickView.java'
+'C:\\AndroidStudioProjects\\sweet-alert-dialog\\library\\src\\main\\java\\cn\\pedant\\SweetAlert\\SweetAlertDialog.java'

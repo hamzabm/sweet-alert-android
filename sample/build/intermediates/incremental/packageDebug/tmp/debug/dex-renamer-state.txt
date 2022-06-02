@@ -1,0 +1,4 @@
+#Thu Jun 02 14:15:38 CEST 2022
+base.0=C\:\\AndroidStudioProjects\\sweet-alert-dialog\\sample\\build\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
+renamed.0=classes.dex
+path.0=classes.dex

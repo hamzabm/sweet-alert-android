@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "C:\\AndroidStudioProjects\\sweet-alert-dialog\\sample\\build\\intermediates\\merged_res\\debug\\drawable-hdpi_custom_img.jpg.flat",
+        "source": "C:\\AndroidStudioProjects\\sweet-alert-dialog\\sample\\src\\main\\res\\drawable-hdpi\\custom_img.jpg"
+    },
+    {
+        "merged": "C:\\AndroidStudioProjects\\sweet-alert-dialog\\sample\\build\\intermediates\\merged_res\\debug\\drawable-hdpi_logo_big.png.flat",
+        "source": "C:\\AndroidStudioProjects\\sweet-alert-dialog\\sample\\src\\main\\res\\drawable-hdpi\\logo_big.png"
+    },
+    {
+        "merged": "C:\\AndroidStudioProjects\\sweet-alert-dialog\\sample\\build\\intermediates\\merged_res\\debug\\drawable-hdpi_ic_launcher.jpg.flat",
+        "source": "C:\\AndroidStudioProjects\\sweet-alert-dialog\\sample\\src\\main\\res\\drawable-hdpi\\ic_launcher.jpg"
+    },
+    {
+        "merged": "C:\\AndroidStudioProjects\\sweet-alert-dialog\\sample\\build\\intermediates\\merged_res\\debug\\layout_sample_activity.xml.flat",
+        "source": "C:\\AndroidStudioProjects\\sweet-alert-dialog\\sample\\src\\main\\res\\layout\\sample_activity.xml"
+    }
+]
